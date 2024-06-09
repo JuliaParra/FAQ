@@ -1,0 +1,25 @@
+# Archivos de sistema operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores/IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de log y debug
+*.log
+
+# Carpeta de salida del sitio generado (si usas algún generador estático)
+dist/
+build/
+
+# Archivos temporales y cachés
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.backup
+.sass-cache/
